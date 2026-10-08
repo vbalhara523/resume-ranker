@@ -1,0 +1,16 @@
+Python Backend Intern
+
+We are looking for a Python backend intern to help build and maintain internal services.
+
+Responsibilities
+- Build REST APIs using FastAPI or Flask
+- Work with SQL databases and write clean queries
+- Write unit tests with pytest
+- Use Git for version control and collaborate through pull requests
+- Debug and improve existing Python scripts
+
+Requirements
+- Good understanding of Python and object-oriented programming
+- Basic knowledge of data structures and algorithms
+- Familiarity with Linux and Docker is a plus
+- Comfortable working in an agile team

@@ -1,0 +1,11 @@
+Aarav Sharma
+B.Tech CSE, 3rd year
+
+Skills: Python, FastAPI, SQLite, pytest, Git, Linux, OOP, DSA
+
+Projects
+Library Management API - built REST APIs with FastAPI and SQLite, added input validation and unit tests using pytest.
+Task Tracker CLI - Python command line app using OOP concepts and file handling.
+
+Experience
+Python intern - wrote and debugged Python scripts, used Git daily.

@@ -1,0 +1,10 @@
+Rohan Dahiya
+B.Tech ECE, 2nd year
+
+Skills: C++, Java, HTML, CSS, JavaScript
+
+Projects
+Portfolio Website - responsive personal website using HTML, CSS and JavaScript.
+Bank Account Simulator - C++ program using classes, inheritance and data structures.
+
+Interests: web development, competitive programming

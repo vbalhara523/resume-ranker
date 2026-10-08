@@ -1,0 +1,12 @@
+Meera Yadav
+B.Tech CSE, 3rd year
+
+Skills: Python, pandas, numpy, matplotlib, SQL, Excel, scikit-learn, EDA
+
+Projects
+Sales Dashboard - cleaned a messy sales dataset with pandas and built charts in matplotlib.
+Student Result Analysis - exploratory data analysis on exam marks, SQL queries for aggregation.
+House Price Predictor - basic machine learning using scikit-learn.
+
+Experience
+Virtual data science trainee - practised data cleaning and data analysis in Python.

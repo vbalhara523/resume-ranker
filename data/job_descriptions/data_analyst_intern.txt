@@ -1,0 +1,16 @@
+Data Analyst Intern
+
+Join our analytics team to turn raw data into useful insights.
+
+Responsibilities
+- Clean and prepare datasets using Python and pandas
+- Perform exploratory data analysis and share findings
+- Build charts with matplotlib or Streamlit dashboards
+- Write SQL queries to pull data from databases
+- Document your analysis clearly
+
+Requirements
+- Python, pandas and numpy
+- Knowledge of data analysis and data cleaning
+- Basic machine learning with scikit-learn is a plus
+- Excel and Git experience preferred

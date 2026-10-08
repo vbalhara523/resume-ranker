@@ -1,0 +1,10 @@
+Karan Malik
+B.Tech ME, 3rd year
+
+Skills: AutoCAD, SolidWorks, MATLAB, Excel
+
+Projects
+Gearbox design using SolidWorks.
+Heat transfer analysis in MATLAB.
+
+Currently learning Python basics.

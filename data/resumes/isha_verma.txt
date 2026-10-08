@@ -1,0 +1,12 @@
+Isha Verma
+B.Tech CSE, 3rd year
+
+Skills: Python, Flask, SQL, Git, Docker, HTML, CSS, DSA, agile
+
+Projects
+Event Booking Website - Flask app with MySQL database, REST API endpoints and basic unit tests.
+Expense Splitter - Python app for splitting group expenses, stored in SQLite.
+
+Experience
+Open source contributor - small bug fixes via GitHub pull requests.
+Worked in a 4 person scrum team during a college hackathon.
